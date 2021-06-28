@@ -1,0 +1,508 @@
+.axa{
+    width: 1500px;
+    height:50px;
+    background-color:rgb(75, 72, 72);
+    display: flex;
+    align-items: row;
+    justify-content: space-between;
+    
+}
+.ab{
+   margin-left: 30px;
+    display: flex;
+    justify-content: space-around
+}
+.a{
+    width: 50px;
+    height: 20px;
+    background-color: cadetblue;
+    border-radius: 50%;
+}
+.b{margin-left: 40px;
+    width: 50px;
+    height: 20px;
+    background-color: cadetblue;
+    border-radius: 50%;
+}
+.c {width: 50px;
+height: 20px;
+background-color: cadetblue;
+border-radius: 20%;
+margin-left: 50px;
+margin-right: 10px;
+}
+.d {width: 50px;
+    margin-right: 10px;
+    height: 20px;
+    border-radius: 20%;
+    background-color: cadetblue;}
+    .e  {width: 50px;
+        height: 20px;    
+        margin-right: 10px;
+        background-color: cadetblue;
+    border-radius: 20%;}
+.sd{
+                display: flex;
+                align-items: row;
+                margin-right: 40px;
+                justify-content: space-between;
+                border-radius: 20%;
+            }
+
+
+.sec{ width: 1500px;
+    
+    height:100px;
+    background-color: lavender;
+    display: flex;
+align-items: row;
+}
+.sag{
+    margin-left: 1050px;
+    display: flex;
+    align-items: row;
+
+}
+.border{ 
+margin-top: 5PX;
+    border-radius: 20%;
+    width: 120px;
+    height: 80px;
+    background-color: black;
+}
+.y{margin-top: 20px;
+    width: 50px;
+    margin-right: 10px;
+    height: 10px;
+    background-color: rgb(147, 181, 192);
+}
+.i{
+    margin-top: 20px;
+    width: 50px;
+    margin-right: 10px;
+    height: 10px;
+    background-color: rgb(147, 181, 192);}
+.o{margin-top: 20px;
+    width: 50px;
+    margin-right: 10px;
+    height: 10px;
+    background-color: rgb(147, 181, 192);}
+.p{width: 50px;
+    margin-top: 20px;
+    margin-right: 10px;
+    height: 10px;
+    background-color: rgb(147, 181, 192);
+}
+.box{
+    background-color: lightsalmon;
+    width: 1500px;
+    height: 280px;
+}
+.box1{
+    
+box-sizing: border-box;
+width: 400px;
+height: 200px;
+display: flex;
+justify-content: space-around;
+margin-left: 500px;
+
+}
+.box11{ margin-top: 30px; 
+    border-radius: 20%;
+width: 40px;
+height: 10px;background-color: rgb(143, 241, 172);
+}
+.box12{border-radius: 20%;margin-top: 30px; 
+    width: 80px;
+    height: 10px;background-color: rgb(143, 241, 172);
+    }
+    .box13{border-radius: 20%;
+        margin-top: 30px; 
+        width: 40px;
+        height: 10px;background-color: rgb(143, 241, 172);
+        }
+       .box2{
+
+        box-sizing: border-box;
+width: 400px;
+height: 200px;
+display: flex;
+justify-content: space-between;
+margin-left: 520px;
+margin-top: -140px;
+
+       }     
+       .box21{border-radius: 20%;
+        width: 40px;
+        height: 10px;background-color: darkgrey;
+
+       } .box22{border-radius: 20%;
+        width: 40px;
+        height: 10px;background-color: darkgrey;
+           
+       } .box23{border-radius: 20%;
+        width: 40px;
+        height: 10px;background-color: darkgrey;
+           
+    } .box24
+    {border-radius: 20%;
+        width: 40px;
+        height: 10px;background-color: darkgrey;
+           
+    } .box25{border-radius: 20%;
+        width: 40px;
+        height: 10px;background-color: darkgrey;
+           
+    } .box26{
+        border-radius: 20%;
+        width: 40px;
+        height: 10px;background-color: darkgrey;
+    }
+    .box3{
+        box-sizing: border-box;
+width: 400px;
+height: 200px;
+display: flex;
+justify-content: space-between;
+margin-left: 490px;
+margin-top: -155px;
+
+    }
+     .box31{border-radius: 20%;
+        width: 40px;
+        height: 10px;background-color: darkgrey;
+     }
+     .box32{border-radius: 20%;
+        width: 40px;
+        height: 10px;background-color: darkgrey;
+     } .box33{border-radius: 20%;
+        width: 40px;
+        height: 10px;background-color: darkgrey;
+     } .box34{border-radius: 20%;
+        width: 40px;
+        height: 10px;background-color: darkgrey;
+     } .box35{border-radius: 20%;
+        width: 40px;
+        height: 10px;background-color: darkgrey;
+     }
+     .box36{
+        border-radius: 20%;
+        width: 40px;
+        height: 10px;background-color: darkgrey;
+
+     }
+     .box4{
+border-radius: 20%;
+width: 80px;
+height: 20px;
+display: flex;
+justify-content: center;
+margin-left: 650px;
+margin-top: -155px;
+background-color: rgb(143, 241, 172);
+     }
+
+
+     .box5{ display: flex;
+        flex-direction: row;
+        text-align: center;
+        justify-content: space-evenly;
+         width:1500px;
+         height: 15px;
+      background-color: lightsalmon;
+         margin-top: 60px;
+        }
+        .box51{ border-radius: 20%;
+            width: 100px;
+            height: 80px;
+            background-color: black;
+        }
+        .box52{ border-radius: 20%;
+            width: 100px;
+            height: 80px;
+            background-color: black;
+        }
+        .box53{ border-radius: 20%;
+            width: 100px;
+            height: 80px;
+            background-color: black;
+        }
+
+
+
+
+       .center{ 
+           
+        display: flex;
+        justify-content: center;
+
+            width: 1500px;
+            height: 300px;
+            background-color: lightsteelblue;
+        }
+
+
+   .aa{
+    margin-top: 50px;   
+    
+    width: 50px;
+    height: 20px;
+    background-color: cadetblue;
+    border-radius: 20%;
+    margin-left: 50px;
+    margin-right: 10px;}
+.ada{
+    margin-top: 50px;
+    width: 50px;
+    height: 20px;
+    background-color: cadetblue;
+    border-radius: 20%;
+    margin-left: 60px;
+    margin-right: 20px;
+}
+.cons ,.con,.co,.oc,.ocs,.oca{
+    margin-top: 80px; 
+    margin-left:  50PX;
+    border-radius: 20%;
+    width: 400px;
+    height: 200px;
+    background-color: cadetblue;
+flex-direction: column;
+align-items: flex-start;
+
+}
+
+.cons1 ,.con1,.co1,.oc1,.ocs1,.oca1{
+border-radius: 30%;
+    width: 100px;
+    height: 80px;
+    background-color: grey;
+margin-left: 35px;
+
+}
+
+.cons2 ,.con2,.co2,.oc2,.ocs2,.oca2{
+
+
+    width: 20px;
+    height: 10px;
+    background-color: greenyellow;
+}
+
+.cons3 ,.con3,.co3,.oc3,.ocs3,.oca3
+{ 
+    margin-left:110px;
+    margin-top: -10px;
+    width: 20px;
+    height: 10px;
+    background-color: greenyellow;
+}
+
+.cons4,.con4,.co4,.oc4,.ocs4,.oca4
+{   margin-left: 150px;
+ margin-top: -12px;
+    width: 20px;
+    height: 10px;
+    background-color: greenyellow;
+}
+
+.cons5,.con5,.co5,.oc5,.ocs5,.oca5{
+
+    display: flex;
+flex-direction: row;
+justify-content: space-between;
+margin-right: 50px;
+margin-top: 20px;
+}
+.cons51,.con51,.co51,.oc51,.ocs51,.oca51{
+    background-color:yellow ; 
+    width: 10px;
+    height: 10px;  border-radius: 20%;
+}
+.cons52,.con52,.co52,.oc52,.ocs52,.oca52{
+    background-color:yellow ;
+    width: 10px;  
+    height: 10px;  border-radius: 20%;
+}
+
+.cons53,.con53,.co53,.oc53,.ocs53,.oca53{
+    background-color:yellow ;  border-radius: 20%;
+    width: 10px;
+    height: 10px;
+    border-radius: 20%;
+}
+
+
+.cons6,.con6,.co6,.oc6,.ocs6,.oca6{  
+    display: flex;
+flex-direction: row;
+justify-content: space-between;
+margin-right: 50px;
+margin-top: 20px;
+}
+
+
+.cons61,.con61,.co61,.oc61,.ocs61,.oca61{
+background-color: black;
+width: 20px;
+height: 5px;
+border-radius: 20%;
+}
+.cons62,.con62,.co62,.oc62,.ocs62,.oca62{
+    background-color: black;
+    width: 20px;
+    height: 5px;
+    border-radius: 20%;
+    
+    }
+    .cons63,.con63,.co63,.oc63,.ocs63,.oca63{
+        background-color: black;
+        width: 20px;
+        height: 5px;
+        border-radius: 20%;
+        
+        }
+        .cons64,.con64,.co64,.oc64,.ocs64,.oca64{
+            background-color: black;
+            width: 20px;
+            height: 5px;
+            border-radius: 20%;
+            
+            }
+
+            .cons7,.con7,.co7,.oc7,.ocs7,.oca7{
+                display: flex;
+                flex-direction: row;
+                margin-top: 20px;
+                justify-content: space-around;
+
+            }
+            .cons71,.con71,.co71,.oc71,.ocs71,.oca71{
+
+                background-color: black;
+                width: 20px;
+            height: 5px;
+            border-radius: 30%;
+            }
+            .cons72,.con72,.co72,.oc72,.ocs72,.oca72{
+
+                background-color: black;
+                width: 40px;
+            height: 5px;
+            border-radius: 20%;
+            }
+            .cons73,.con73,.co73,.oc73,.ocs73,.oca73{
+
+                background-color: black;
+                width: 20px;
+            height: 5px;
+            border-radius: 20%;
+            }
+
+            .cons8,.con8,.co8,.oc8,.ocs8,.oca8{
+
+                display: flex;
+                flex-direction: row;
+                margin-top: 20px;
+                justify-content: space-around;
+
+            }
+            .cons81,.con81,.co81,.oc81,.ocs81,.oca81{         background-color:rgb(141, 219, 63) ;         
+                 width: 20px;
+            height: 5px;
+            border-radius: 20%;
+            }
+            .cons82,.con82,.co82,.oc82,.ocs82,.oca82{
+         
+                background-color:rgb(141, 219, 63) ;   
+                width: 20px;
+            height: 5px;
+            border-radius: 20%;
+            }
+            .cons83,.con83,.co83,.oc83,.ocs83,.oca83{
+                background-color:rgb(141, 219, 63) ; 
+                width: 20px;
+            height: 5px;
+            border-radius: 20%;
+            }
+            .cons84,.con84,.co84,.oc84,.ocs84,.oca84{
+        
+                background-color:rgb(141, 219, 63) ;         
+                width: 20px;
+            height: 5px;
+            border-radius: 20%;
+            }
+           .xett
+           {width: 1500px;
+            height: 100px;
+               display: flex;
+               flex-direction: row;
+               background-color: lightsteelblue;
+               justify-content: space-evenly;
+
+           }
+            .x2{ background-color: greenyellow;
+                         width: 50px;
+                        height: 10px;
+            }
+            .x3{
+                background-color: greenyellow;
+                        width: 50px;
+                         height: 10px; 
+            }
+            .sqr{ width: 1500px;
+                height: 300px;
+                background-color: lightsteelblue;
+                display: flex;
+                justify-content: space-around;
+               
+            }
+            .sqr1, .sqr2{
+                background-color: greenyellow;
+                width: 150px;
+                height: 150px;
+            }
+            .sqr3,.sqr4{
+                background-color: springgreen;
+                width: 150px;
+                height: 150px;
+            }
+
+.round{
+    width: 1500px;
+    height: 400px;
+    background-color: lightsteelblue;
+    display: flex;
+    justify-content: space-around;
+}
+.round1,.round3{
+background-color: black;
+margin-top: 100px;
+width: 200px;
+height: 200px;
+border-radius: 50%;
+flex-direction: row;
+}
+.round2{
+    background-color: black;
+    width:300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+
+.sira{
+    background-color: lightsteelblue;;
+    width: 1500px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.sira11,.sira12{
+background-color: limegreen;
+    width: 50px;
+    height: 10px;
+ 
+}
